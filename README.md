@@ -1,7 +1,7 @@
 # React-Redux-Webpack_SCSS-Boilerplate
  Modified working package.json from Bucky Roberts repository React-Redux-Boilerplate.
- use npm to install
- if module python2 doesn't get installed,use yarn to install.
+ Use npm to install. 
+ If module python2 doesn't get installed,use yarn to install.
  
 ## Getting Started
 
